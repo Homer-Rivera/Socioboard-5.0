@@ -1,5 +1,6 @@
 <?php
 
+namespace Nwidart\Modules\Commands;
 use Nwidart\Modules\Activators\FileActivator;
 
 return [
